@@ -4,6 +4,7 @@ public class CustomUtility {
 
 	private String username;
 	public String password;
+	protected String role;
 	
 	public CustomUtility() {
 		super();
